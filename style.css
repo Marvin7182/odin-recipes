@@ -1,0 +1,24 @@
+body{ 
+    max-width: 800px; 
+    margin: auto;
+}
+
+.template{ 
+    background-color: rgb(210,210,210); 
+    padding: 8px; 
+    border: 2px solid grey;
+}
+
+.header{  
+    background-color: antiquewhite; 
+    color: white;
+    text-align: center; 
+    margin: 8px;
+} 
+
+.middle{ 
+    background-color: antiquewhite; 
+    color: black;
+    margin: 8px; 
+    padding: 8px;
+}
